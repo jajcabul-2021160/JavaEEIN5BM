@@ -64,10 +64,10 @@
                         <div class="input-box">
                             <span class="icon"><i class='bx bxs-lock-alt' ></i></span>
                             <input type="password" name="txtPassword" required>
-                            <label>Contraseña</label>
+                            <label>Contrasena</label>
                         </div>
                         <div class="remember-password">
-                            <label for=""><input type="checkbox">Ver contraseña</label>
+                            <label for=""><input type="checkbox">Ver contrasena</label>
                         </div>                    
                         <center> <input type="submit" name="accion" value="Ingresar" class="btn btn-primary btn-block"</center>
                         <div class="create-account">
